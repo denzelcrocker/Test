@@ -1,0 +1,8 @@
+C:\Users\zelen\Desktop\Shet\Shet\bin\Debug\Shet.exe.config
+C:\Users\zelen\Desktop\Shet\Shet\bin\Debug\Shet.exe
+C:\Users\zelen\Desktop\Shet\Shet\bin\Debug\Shet.pdb
+C:\Users\zelen\Desktop\Shet\Shet\obj\Debug\Shet.csproj.AssemblyReference.cache
+C:\Users\zelen\Desktop\Shet\Shet\obj\Debug\Shet.csproj.SuggestedBindingRedirects.cache
+C:\Users\zelen\Desktop\Shet\Shet\obj\Debug\Shet.csproj.CoreCompileInputs.cache
+C:\Users\zelen\Desktop\Shet\Shet\obj\Debug\Shet.exe
+C:\Users\zelen\Desktop\Shet\Shet\obj\Debug\Shet.pdb

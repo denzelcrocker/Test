@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shet", "Shet\Shet.csproj", "{34A49C2A-F16D-42F6-A734-642A1F25F302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShetTest", "ShetTest\ShetTest.csproj", "{A64299AB-FC27-4155-887F-C0C962DAE04C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34A49C2A-F16D-42F6-A734-642A1F25F302} = {34A49C2A-F16D-42F6-A734-642A1F25F302}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A49C2A-F16D-42F6-A734-642A1F25F302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A49C2A-F16D-42F6-A734-642A1F25F302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A49C2A-F16D-42F6-A734-642A1F25F302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A49C2A-F16D-42F6-A734-642A1F25F302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64299AB-FC27-4155-887F-C0C962DAE04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64299AB-FC27-4155-887F-C0C962DAE04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64299AB-FC27-4155-887F-C0C962DAE04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64299AB-FC27-4155-887F-C0C962DAE04C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA003B59-85B8-4472-9B22-CD9D7CFB2F33}
+	EndGlobalSection
+EndGlobal
